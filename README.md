@@ -1,1 +1,4 @@
-# Data-analysis-and-visualization-of-number-of-internet-users-over-the-years-
+In our project we have data collected regarding the user of internet from 1990 to 2016. We will be analyzing the internet user rate from 1990-2016. In this project we will try to discover the main reasons due to which the internet users grew over the years. We will also be checking out the main countries who developed in the past decade, and the main reasons for its development.
+After preparing the data we processed and transformed the data using spreadsheet 
+We will be first be doing an EDA on our data, here we will be checking the leading countries with maximum percent of the population using internet then we can take a look at the scatterplot of the clustered countries on the basis of internet user rate and urban rate using tableau 
+We will be using various visualization techniques and also predict the number of internet user untill 2023. 
